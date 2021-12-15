@@ -470,6 +470,12 @@ grid-column: 1/4;
     }
 }
 
+@media all and (max-width:1200px){
+    #low2 a{
+      border-right:none;
+   }
+}
+
 @media all and (max-width:800px){
     
     #main{
@@ -494,10 +500,6 @@ grid-column: 1/4;
     #mobile>div{
         padding: 15px;
     }
-   
-   #low2 a{
-      border-right:none;
-   }
 }
 
 
