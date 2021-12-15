@@ -494,6 +494,10 @@ grid-column: 1/4;
     #mobile>div{
         padding: 15px;
     }
+   
+   #low2 a{
+      border-right:none;
+   }
 }
 
 
