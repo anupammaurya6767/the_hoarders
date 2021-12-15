@@ -34,7 +34,6 @@ body{
 
 
 #header{
-  background-color:red;
   grid-column: 1/-1;
   background-image: url(images/head.jpg);
  background-size: cover;
